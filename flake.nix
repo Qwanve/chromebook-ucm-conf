@@ -4,7 +4,7 @@
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     wtt = {
-      url = "github:WeirdTreeThing/alsa-ucm-conf";
+      url = "github:WeirdTreeThing/chromebook-ucm-conf";
       flake = false;
     };
   };
@@ -32,7 +32,6 @@
         chromebook-ucm-conf = final.stdenv.mkDerivation {
           name = "chromebook-ucm-conf-${version}";
 
-          dontUnpack = false;
           src = wtt;
 
           installPhase =

@@ -25,16 +25,16 @@
     "wtt": {
       "flake": false,
       "locked": {
-        "lastModified": 1712680799,
-        "narHash": "sha256-x4DQoYIF8tRlNQ1/vKgTtgzach/CCNYzsl+gxviSVHs=",
+        "lastModified": 1713055996,
+        "narHash": "sha256-QRUKHd3RQmg1tnZU8KCW0AmDtfw/daOJ/H3XU5qWTCc=",
         "owner": "WeirdTreeThing",
-        "repo": "alsa-ucm-conf",
-        "rev": "f7be751655e4298851615bded7adaf364ccfb8c3",
+        "repo": "chromebook-ucm-conf",
+        "rev": "b6ce2a76f6360b87bfe593ff14dffc125fd9c671",
         "type": "github"
       },
       "original": {
         "owner": "WeirdTreeThing",
-        "repo": "alsa-ucm-conf",
+        "repo": "chromebook-ucm-conf",
         "type": "github"
       }
     }
