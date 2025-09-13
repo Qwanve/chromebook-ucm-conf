@@ -2,11 +2,11 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "lastModified": 1713714899,
-        "narHash": "sha256-+z/XjO3QJs5rLE5UOf015gdVauVRQd2vZtsFkaXBq2Y=",
+        "lastModified": 1757487488,
+        "narHash": "sha256-zwE/e7CuPJUWKdvvTCB7iunV4E/+G0lKfv4kk/5Izdg=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "6143fc5eeb9c4f00163267708e26191d1e918932",
+        "rev": "ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
         "type": "github"
       },
       "original": {
@@ -25,11 +25,11 @@
     "wtt": {
       "flake": false,
       "locked": {
-        "lastModified": 1713055996,
-        "narHash": "sha256-QRUKHd3RQmg1tnZU8KCW0AmDtfw/daOJ/H3XU5qWTCc=",
+        "lastModified": 1732542234,
+        "narHash": "sha256-DUJrOy8FAtYK0alhWvWN504C6+3X7krnr+ETEeXtRS0=",
         "owner": "WeirdTreeThing",
         "repo": "chromebook-ucm-conf",
-        "rev": "b6ce2a76f6360b87bfe593ff14dffc125fd9c671",
+        "rev": "db9605e8d9cedea3657743c18fca862c05b59082",
         "type": "github"
       },
       "original": {
